@@ -6,5 +6,12 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 - A wide range of pattern problems from beginner to advanced levels.  
 - Solutions written in multiple programming languages (add specific ones if applicable).  
 - Clear and concise explanations for each pattern.  
-- Perfect for coding interviews, competitions, and self-practice.  
+- Perfect for coding interviews, competitions, and self-practice.  <br>
+1. Right-Angled Triangle
+*  
+**  
+***  
+****  
+*****  
+
 
