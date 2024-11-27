@@ -9,10 +9,5 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 - Perfect for coding interviews, competitions, and self-practice.  <br>
 1. Right-Angled Triangle
 
-*  <br>
-**  <br>
-***  <br>
-****  <br>
-*****  <br>
 
 
