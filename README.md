@@ -8,7 +8,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 - Clear and concise explanations for each pattern.  
 - Perfect for coding interviews, competitions, and self-practice.  <br>
 1. Right-Angled Triangle
-![Alt Text](Pattern-Vault/Images/Right_Angle.png)
+![Alt Text](Pattern-Vault/Images/Right_angled.png)
 
 
 
