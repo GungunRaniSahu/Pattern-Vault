@@ -10,5 +10,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 1. Right-Angled Triangle<br>
    ![Alt Text](Images/Right_angled.png) <br>
 2. Pyramid Star<br>
+   ![Alt Text](Images/pyramid.png) <br>
+3. Increasing Numbers
    ![Alt Text](Images/pyramid.png)
+
    
