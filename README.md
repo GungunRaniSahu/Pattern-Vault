@@ -14,6 +14,6 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 3. Increasing Numbers <br>
    ![Alt Text](Images/increasing_num.png) <br>
 4. Diamond Pattern <br>
-   ![Alt Text](Images/diamond.png)
+   ![Alt Text](Images/diamond.png) <br>
 
    
