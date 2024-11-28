@@ -12,5 +12,5 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 
 
 2. Pyramid Star
-   ![Alt Text](Images/Right_angled.png)
+   ![Alt Text](Images/pyramid.png)
    
