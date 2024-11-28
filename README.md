@@ -8,9 +8,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 - Clear and concise explanations for each pattern.  
 - Perfect for coding interviews, competitions, and self-practice.  <br>
 1. Right-Angled Triangle<br>
-   ![Alt Text](Images/Right_angled.png)
-
-
-2. Pyramid Star
+   ![Alt Text](Images/Right_angled.png) <br>
+2. Pyramid Star<br>
    ![Alt Text](Images/pyramid.png)
    
