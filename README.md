@@ -12,6 +12,6 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 2. Pyramid Star<br>
    ![Alt Text](Images/pyramid.png) <br>
 3. Increasing Numbers
-   ![Alt Text](Images/pyramid.png)
+   ![Alt Text](Images/increasing_num.png) <br>
 
    
