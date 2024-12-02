@@ -16,8 +16,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 4. Diamond Pattern <br>
    ![Alt Text](Images/diamond.png) <br>
 5. Inverted Right Angled Triangle <br>
-   ![Alt Text](Images/inverted_right.png)
-6. Alphabet Triangle
+   ![Alt Text](Images/inverted_right.png) <br>
+6. Alphabet Triangle <br>
    ![Alt Text](![Alt Text](Images/inverted_right.png)
 
    
