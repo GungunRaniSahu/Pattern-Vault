@@ -18,7 +18,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 5. Inverted Right Angled Triangle <br>
    ![Alt Text](Images/inverted_right.png) <br>
 6. Alphabet Triangle <br>
-   ![Alt Text](![Alt Text](Images/inverted_right.png)
+   ![Alt Text](Images/inverted_right.png)
 
    
    
