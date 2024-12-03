@@ -18,9 +18,9 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 5. Inverted Right Angled Triangle <br>
    ![Alt Text](Images/inverted_right.png) <br>
 6. Alphabet Triangle <br>
-   ![Alt Text](Images/alphabet.png)
-7. Number Pyramid
-   ![Alt Text](Images/number_pyramid.png)
+   ![Alt Text](Images/alphabet.png) <br>
+7. Number Pyramid <br>
+   ![Alt Text](Images/number_pyramid.png) <br>
    
    
    
