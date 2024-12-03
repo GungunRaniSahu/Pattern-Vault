@@ -20,7 +20,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 6. Alphabet Triangle <br>
    ![Alt Text](Images/alphabet.png)
 7. Number Pyramid
-   ![Alt Text](Images/alphabet.png)
+   ![Alt Text](Images/number_pyramid.png)
    
    
    
