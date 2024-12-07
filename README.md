@@ -24,6 +24,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 8. Inverted Pyramid <br>
    ![Alt Text](Images/inverted_pyramid.png)
 9. Alphabet Pyramid <br>
+   ![Alt Text](Images/alphabet_pyramid.png)
    
    
    
