@@ -26,7 +26,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 9. Alphabet Pyramid <br>
    ![Alt Text](Images/alphabet_pyramid.png)
 10. Hollow Square <br>
-   ![Alt Text](Images/alphabet_pyramid.png)
+   ![Alt Text](Images/hollow_square.png)
    
    
    
