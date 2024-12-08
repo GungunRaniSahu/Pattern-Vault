@@ -28,6 +28,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 10. Hollow Square <br>
    ![Alt Text](Images/hollow_square.png)
 11. Checkboard Pattern <br>
+   ![Alt Text](Images/hollow_square.png)
    
    
 
