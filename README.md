@@ -30,7 +30,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 11. Checkboard Pattern <br>
    ![Alt Text](Images/checkboard_pattern.png)
 11. Reverse Number Pyramid
-    ![Alt Text](Images/checkboard_pattern.png)
+    ![Alt Text](Images/reverse_number_pyramid.png)
    
    
 
