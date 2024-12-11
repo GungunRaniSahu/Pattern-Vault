@@ -29,7 +29,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/hollow_square.png)
 11. Checkboard Pattern <br>
    ![Alt Text](Images/checkboard_pattern.png)
-11. Reverse Number Pyramid
+11. Reverse Number Pyramid <br>
     ![Alt Text](Images/reverse_number_pyramid.png)
    
    
