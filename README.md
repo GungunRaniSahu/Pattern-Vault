@@ -31,8 +31,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/checkboard_pattern.png)
 11. Reverse Number Pyramid <br>
     ![Alt Text](Images/reverse_number_pyramid.png)
-12. Floyd’s Triangle
-    ![Alt Text](Images/reverse_number_pyramid.png)
+12. Floyd’s Triangle <br>
+    ![Alt Text](Images/floyd's_triangle.png)
    
 
    
