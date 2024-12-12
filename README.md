@@ -36,7 +36,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 13. Pascal’s Triangle <br>
    ![Alt Text](Images/pascal's_triangle.png)
 14. Hollow Rhombus Pattern <br>
-   ![Alt Text]()
+   ![Alt Text](Images/hollow_rhombus.png)
    
 
    
