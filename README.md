@@ -34,7 +34,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 12. Floyd’s Triangle <br>
     ![Alt Text](Images/floyd's_triangle.png)
 13. Pascal’s Triangle <br>
-   ![Alt Text](Images/floyd's_triangle.png)
+   ![Alt Text](Images/pascal's_triangle.png)
    
 
    
