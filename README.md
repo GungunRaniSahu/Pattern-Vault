@@ -40,7 +40,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 15. Checkerboard Pattern <br>
     ![Alt Text](Images/checkboard.png)
 16. Hollow Triangle Pattern
-     ![Alt Text]()
+     ![Alt Text](Images/hollow_triangle.png)
    
 
    
