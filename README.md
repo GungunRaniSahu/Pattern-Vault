@@ -39,6 +39,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/hollow_rhombus.png)
 15. Checkerboard Pattern <br>
     ![Alt Text](Images/checkboard.png)
+16. Hollow Triangle Pattern
+     ![Alt Text]()
    
 
    
