@@ -42,7 +42,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 16. Hollow Triangle Pattern <br>
      ![Alt Text](Images/hollow_triangle.png)
 17. Zig-Zag Pyramid
-   ![Alt Text]()
+   ![Alt Text](Images/zig_zag_pyramid.png)
    
 
    
