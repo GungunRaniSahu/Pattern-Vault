@@ -46,6 +46,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 18. Alphabet Diamond <br>
    ![Alt Text](Images/alphabet_diamond.png)
 19. Spiral Matrix <br>
+   ![Alt Text](Images/spiral_matrix.png)
    
    
 
