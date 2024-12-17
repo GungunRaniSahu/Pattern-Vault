@@ -48,7 +48,9 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 19. Spiral Matrix <br>
    ![Alt Text](Images/spiral_matrix.png) <br>
 20. Fibonacci Triangle <br>
-   ![Alt Text](Images/fibonacci_triangle.png) 
+   ![Alt Text](Images/fibonacci_triangle.png)
+21. Numeric Palindrome <br>
+   ![Alt Text](Images/numeric_palindrome.png0)
       
    
 
