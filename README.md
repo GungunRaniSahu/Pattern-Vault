@@ -47,8 +47,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/alphabet_diamond.png)
 19. Spiral Matrix <br>
    ![Alt Text](Images/spiral_matrix.png) <br>
-   Logic: Use a 2D array and simulate movement in four directions (right, down, left, up) using conditions.
-   
+      
    
 
    
