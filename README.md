@@ -50,7 +50,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 20. Fibonacci Triangle <br>
    ![Alt Text](Images/fibonacci_triangle.png)
 21. Numeric Palindrome <br>
-   ![Alt Text](Images/numeric_palindrome.png0)
+   ![Alt Text](Images/numeric_palindrome.png)
       
    
 
