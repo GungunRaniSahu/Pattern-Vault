@@ -52,7 +52,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 21. Numeric Palindrome <br>
    ![Alt Text](Images/numeric_palindrome.png)
 22. Binary Checkerboard <br>
-   ![Alt Text]()
+   ![Alt Text](Images/binary_checkboard.png)
       
    
 
