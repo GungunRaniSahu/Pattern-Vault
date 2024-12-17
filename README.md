@@ -47,6 +47,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/alphabet_diamond.png)
 19. Spiral Matrix <br>
    ![Alt Text](Images/spiral_matrix.png) <br>
+20. Fibonacci Triangle <br>
+   
       
    
 
