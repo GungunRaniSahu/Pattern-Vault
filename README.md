@@ -43,6 +43,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
      ![Alt Text](Images/hollow_triangle.png)
 17. Zig-Zag Pyramid <br>
    ![Alt Text](Images/zig_zag_pyramid.png)
+18. Alphabet Diamond <br>
+   ![Alt Text](Images/alphabet_diamond.png)
    
 
    
