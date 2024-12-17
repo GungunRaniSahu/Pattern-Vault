@@ -51,6 +51,8 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/fibonacci_triangle.png)
 21. Numeric Palindrome <br>
    ![Alt Text](Images/numeric_palindrome.png)
+22. Binary Checkerboard <br>
+   ![Alt Text]()
       
    
 
