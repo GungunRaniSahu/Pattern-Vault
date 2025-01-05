@@ -56,6 +56,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 23. Numeric Pyramid <br>
    ![Alt Text](Images/numeric_pyramid.png)
 24. Hollow Pyramid <br>
+   ![Alt Text](Images/hollow_pyramid.png)
    
       
    
