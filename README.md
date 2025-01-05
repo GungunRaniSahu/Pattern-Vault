@@ -58,7 +58,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 24. Hollow Pyramid <br>
    ![Alt Text](Images/hollow_pyramid.png)
 25. Zig-Zig Pyramid <br>
-   ![Alt Text]
+   ![Alt Text](Images/zig_zig_pattern.png)
    
       
    
