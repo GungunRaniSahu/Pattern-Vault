@@ -54,6 +54,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 22. Binary Checkerboard <br>
    ![Alt Text](Images/binary_checkboard.png)
 23. Numeric Pyramid <br>
+   ![Alt Text](Images/numeric_pyramid.png)
       
    
 
