@@ -60,7 +60,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 25. Zig-Zig Pyramid <br>
    ![Alt Text](Images/zig_zig_pattern.png)
 26. Alternating Star-Hash Pyramid <br>
-   ![Alt Text]()
+   ![Alt Text](Images/Alternating_Star_Hash_Pyramid.png)
    
       
    
