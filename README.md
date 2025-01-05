@@ -62,6 +62,7 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
 26. Alternating Star-Hash Pyramid <br>
    ![Alt Text](Images/Alternating_Star_Hash_Pyramid.png)
 27. Spiral Pattern <br>
+   ![Alt Text](Images/Spiral_Pattern.png)
    
    
       
