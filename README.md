@@ -11,10 +11,10 @@ Welcome to **PatternVault**, a curated collection of pattern-based coding proble
    ![Alt Text](Images/Right_angled.png) <br>
 2. Pyramid Star<br>
    ![Alt Text](Images/pyramid.png) <br>
-3. Increasing Numbers <br>
-   ![Alt Text](Images/increasing_num.png) <br>
 4. Diamond Pattern <br>
    ![Alt Text](Images/diamond.png) <br>
+3. Increasing Numbers <br>
+   ![Alt Text](Images/increasing_num.png) <br>
 5. Inverted Right Angled Triangle <br>
    ![Alt Text](Images/inverted_right.png) <br>
 6. Alphabet Triangle <br>
